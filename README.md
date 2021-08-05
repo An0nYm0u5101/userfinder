@@ -14,7 +14,8 @@
     4. cd userfinder && chmod +x osint.sh
     
 # Usage
-    ./osint.sh
+    sudo bash osint.sh or sudo zsh osint.sh
+    Note: For Termux Users: bash osint.sh
     
 # Features
     Currently This tool will search username in 30 famous websites including all social media platform.
