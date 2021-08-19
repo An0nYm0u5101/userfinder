@@ -17,6 +17,8 @@
     sudo bash osint.sh or sudo zsh osint.sh
     Note: For Termux Users: bash osint.sh
     
+# Demo Video:
+  https://www.youtube.com/watch?v=DDjzfr9qMsk&lc=UgyLtajzpvd7E1-Zww94AaABAg
 # Features
     Currently This tool will search username in 30 famous websites including all social media platform.
     More Features will be added in future IA.
